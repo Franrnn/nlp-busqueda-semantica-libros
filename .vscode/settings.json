@@ -1,5 +1,0 @@
-{
-  "python.terminal.activateEnvironment": true,
-  "jupyter.interactiveWindow.textEditor.executeSelection": true,
-  "python.REPL.enableREPLSmartSend": true
-}

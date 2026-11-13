@@ -12,7 +12,7 @@ from Libro import Libro
 urlBase = "https://ww3.lectulandia.co"
 urlGenero = "/genero/ciencia-ficcion"
 categoriaSeleccionada = "Ciencia ficción"
-archivo_csv = "./data/libros.csv"
+archivo_csv = Path(__file__).parent / "data" / "libros.csv"
 HEADLESS = False  # Cambiar a True para correr sin mostrar la ventana del navegador.
 listaLibrosProcesados = []
 
