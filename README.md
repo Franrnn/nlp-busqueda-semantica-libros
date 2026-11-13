@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Las instrucciones completas de cada trabajo (modelos a descargar, conexión a la base, ejecución en Google Colab) están en [docs/ejecucion.md](docs/ejecucion.md).
 
-Desarrollado con asistencia de Claude Code.
+Desarrollado con asistencia de Claude Code. Esta es la versión reorganizada para portfolio; la entrega original a la cátedra está en [Franrnn/TUIA-NLP](https://github.com/Franrnn/TUIA-NLP).
 
 ---
 
